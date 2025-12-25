@@ -199,3 +199,6 @@ Single conversation per browser session (no auth required)
 No streaming responses to keep implementation simple
 
 Explicit backend URLs instead of proxy for deployment clarity
+
+# working (demo)
+<img width="382" height="545" alt="image" src="https://github.com/user-attachments/assets/91457ece-ec1c-4aa5-abd8-2897165dba3c" />
